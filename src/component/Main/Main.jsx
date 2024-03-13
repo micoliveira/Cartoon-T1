@@ -36,7 +36,7 @@ function Main() {
 
             </S.SegundaSection>
 
-            <Programacao/>
+            <Programacao />
 
         </main>
     )
